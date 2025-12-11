@@ -1,4 +1,6 @@
 # TPRG-2131-PROJECT-2
+edit: *files are ready for marking*
+
 Repository containing the files and documentation associated with TPRG 2131 project 2.
 
 Project comprises a complementary pair of scripts, a Server and client. The server periodically measures and transmits VCgen command data from the RPi to the client script.
